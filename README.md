@@ -1,2 +1,2 @@
-# Ping-Pong
-example of a "Ping-Pong" game on PyGame
+## Ping-Pong
+Ping-Pong game on PyGame. For one or two players.
